@@ -10,5 +10,11 @@ namespace Exercicio01
     {
         public String nome;
         public int idade;
+
+        public Pessoa(string nome, int idade)
+        {
+            this.nome = nome;
+            this.idade = idade;
+        }
     }
 }

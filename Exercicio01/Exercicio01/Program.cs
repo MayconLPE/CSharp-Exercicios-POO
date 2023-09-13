@@ -7,18 +7,23 @@ internal class Program
         // 01. Fazer um programa para ler os dados de duas pessoas,
         // depois mostrar o nome da pessoa mais velha.
 
-        Pessoa p1 = new Pessoa();
-        Pessoa p2 = new Pessoa();
+
+
 
         Console.WriteLine("Digite o Nome da 1° pessoa: ");
-        p1.nome = Console.ReadLine();
+        string nome1 = Console.ReadLine();
         Console.WriteLine("Digite a idade da 1° pessoa: ");
-        p1.idade = int.Parse(Console.ReadLine());
+        int idade1 = int.Parse(Console.ReadLine());
+
+        Pessoa p1 = new Pessoa(nome1, idade1);
+
 
         Console.WriteLine("Digite o Nome da 2° pessoa: ");
-        p2.nome = Console.ReadLine();
+        string nome2 = Console.ReadLine();
         Console.WriteLine("Digite a idade da 2° pessoa: ");
-        p2.idade = int.Parse(Console.ReadLine());
+        int idade2 = int.Parse(Console.ReadLine());
+
+        Pessoa p2 = new Pessoa(nome2, idade2);
 
         if (p1.idade > p2.idade)
         {
