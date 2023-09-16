@@ -28,5 +28,21 @@ internal class Program
         Console.WriteLine();
         Console.WriteLine("Dados da conta: ");
         Console.WriteLine(conta);
+
+        Console.WriteLine();
+        Console.Write("Entre com o valor do depósito: ");
+        double quantiaDeposito = double.Parse(Console.ReadLine() , CultureInfo.InvariantCulture);
+        conta.Deposito(quantiaDeposito);
+        Console.WriteLine("Dados da conta atualizados: ");
+        Console.WriteLine(conta);
+
+        Console.WriteLine();
+        Console.WriteLine("Entre com o valor do saque: ");
+        double quantiaSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        conta.Saque(quantiaSaque);
+        Console.WriteLine(quantiaDeposito);
+        Console.WriteLine("Dados da conta atualizados: ");
+        Console.WriteLine(conta);
+
     }
 }

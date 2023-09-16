@@ -3,7 +3,6 @@ C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\bin\Debug\n
 C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\bin\Debug\net6.0\ContaBanco.runtimeconfig.json
 C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\bin\Debug\net6.0\ContaBanco.dll
 C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\bin\Debug\net6.0\ContaBanco.pdb
-C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\obj\Debug\net6.0\ContaBanco.csproj.AssemblyReference.cache
 C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\obj\Debug\net6.0\ContaBanco.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\obj\Debug\net6.0\ContaBanco.AssemblyInfoInputs.cache
 C:\Users\windows\Desktop\CSharp-Exercicios-POO\ContaBanco\ContaBanco\obj\Debug\net6.0\ContaBanco.AssemblyInfo.cs
