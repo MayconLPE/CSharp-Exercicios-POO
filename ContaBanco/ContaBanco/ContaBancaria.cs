@@ -16,8 +16,8 @@ namespace ContaBanco
         }
 
         // repassando o construtor de dois argumentos com : this (numero, titular);
-        public ContaBancaria(int numero, string titular, double saldo) : this (numero, titular){ 
-            Saldo = saldo;
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this (numero, titular){
+            Deposito(depositoInicial);
         }
 
         public void Deposito(double quantia)
