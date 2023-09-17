@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.exe
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\refint\ExercicioVetores.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ref\ExercicioVetores.dll
