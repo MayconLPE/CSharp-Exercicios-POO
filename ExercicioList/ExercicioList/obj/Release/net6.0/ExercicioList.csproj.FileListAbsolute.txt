@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\bin\Release\net6.0\ExercicioList.exe
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\bin\Release\net6.0\ExercicioList.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\bin\Release\net6.0\ExercicioList.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\bin\Release\net6.0\ExercicioList.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\bin\Release\net6.0\ExercicioList.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\refint\ExercicioList.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ExercicioList.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExercicioList\ExercicioList\obj\Release\net6.0\ref\ExercicioList.dll
