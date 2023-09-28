@@ -34,5 +34,19 @@
             Console.WriteLine(obj);
         }
 
+        list.Remove("João");
+        Console.WriteLine("---------------");
+        foreach (string obj in list)
+        {
+            Console.WriteLine(obj);
+        }
+
+        list.RemoveAll(x => x[0] == 'M'); // RemoveAt(3) remove uma posição.
+        Console.WriteLine("---------------");
+        foreach (string obj in list)
+        {
+            Console.WriteLine(obj);
+        }
+
     }
 }
