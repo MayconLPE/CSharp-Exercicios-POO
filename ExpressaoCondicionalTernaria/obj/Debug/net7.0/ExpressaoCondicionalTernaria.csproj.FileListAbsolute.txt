@@ -1,0 +1,14 @@
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.exe
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\refint\ExpressaoCondicionalTernaria.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ref\ExpressaoCondicionalTernaria.dll

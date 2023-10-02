@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Exercicio01",
-    "\\Exercicio01\\Exercicio01"
+    "\\Exercicio01\\Exercicio01",
+    "\\ExpressaoCondicionalTernaria"
   ],
-  "SelectedNode": "\\Exercicio01\\Exercicio01\\Program.cs",
+  "SelectedNode": "\\ExpressaoCondicionalTernaria\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
