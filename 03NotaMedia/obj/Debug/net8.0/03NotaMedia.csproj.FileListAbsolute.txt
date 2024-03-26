@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.sourcelink.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\bin\Debug\net8.0\03NotaMedia.exe
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\bin\Debug\net8.0\03NotaMedia.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\bin\Debug\net8.0\03NotaMedia.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\bin\Debug\net8.0\03NotaMedia.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\bin\Debug\net8.0\03NotaMedia.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\refint\03NotaMedia.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\03NotaMedia.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\03NotaMedia\obj\Debug\net8.0\ref\03NotaMedia.dll
