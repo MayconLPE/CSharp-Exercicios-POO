@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\bin\Debug\net8.0\04ExercicoIMC.exe
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\bin\Debug\net8.0\04ExercicoIMC.deps.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\bin\Debug\net8.0\04ExercicoIMC.runtimeconfig.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\bin\Debug\net8.0\04ExercicoIMC.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\bin\Debug\net8.0\04ExercicoIMC.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.AssemblyInfo.cs
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.sourcelink.json
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\refint\04ExercicoIMC.dll
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.pdb
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\04ExercicoIMC.genruntimeconfig.cache
+C:\Users\windows\Desktop\CSharp-Exercicios-POO\04ExercicoIMC\obj\Debug\net8.0\ref\04ExercicoIMC.dll

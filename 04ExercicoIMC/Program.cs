@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using _04ExercicoIMC;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -14,6 +16,9 @@
         >= 40 = Obesidade 3.
         4 - Criar um método de mensagem para exibir o cálculo e a situação. */
         
-        Console.WriteLine("Hello, World!");
+        Pessoa p = new Pessoa();
+        p.peso = 80;
+        p.altura = 1.75;
+        p.mensagem();
     }
 }
