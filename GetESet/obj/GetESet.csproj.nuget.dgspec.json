@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\03NotaMedia\\03NotaMedia.csproj": {}
+    "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\GetESet\\GetESet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\03NotaMedia\\03NotaMedia.csproj": {
+    "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\GetESet\\GetESet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\03NotaMedia\\03NotaMedia.csproj",
-        "projectName": "03NotaMedia",
-        "projectPath": "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\03NotaMedia\\03NotaMedia.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\GetESet\\GetESet.csproj",
+        "projectName": "GetESet",
+        "projectPath": "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\GetESet\\GetESet.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\03NotaMedia\\obj\\",
+        "outputPath": "C:\\Users\\windows\\Desktop\\DEV\\CSharp-Exercicios-POO\\GetESet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",

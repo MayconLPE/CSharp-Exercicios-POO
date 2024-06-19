@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\bin\Debug\net8.0\GetESet.exe
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\bin\Debug\net8.0\GetESet.deps.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\bin\Debug\net8.0\GetESet.runtimeconfig.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\bin\Debug\net8.0\GetESet.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\bin\Debug\net8.0\GetESet.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.sourcelink.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\refint\GetESet.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\GetESet.genruntimeconfig.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\GetESet\obj\Debug\net8.0\ref\GetESet.dll
