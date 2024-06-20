@@ -1,0 +1,5 @@
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Herança\obj\Debug\net8.0\Herança.sourcelink.json

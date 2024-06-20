@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\bin\Debug\net8.0\This.exe
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\bin\Debug\net8.0\This.deps.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\bin\Debug\net8.0\This.runtimeconfig.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\bin\Debug\net8.0\This.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\bin\Debug\net8.0\This.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.sourcelink.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\refint\This.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\This.genruntimeconfig.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\This\obj\Debug\net8.0\ref\This.dll
