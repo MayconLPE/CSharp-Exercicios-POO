@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\bin\Debug\net8.0\Abstração.exe
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\bin\Debug\net8.0\Abstração.deps.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\bin\Debug\net8.0\Abstração.runtimeconfig.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\bin\Debug\net8.0\Abstração.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\bin\Debug\net8.0\Abstração.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.sourcelink.json
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\refint\Abstração.dll
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.pdb
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\Abstração.genruntimeconfig.cache
+C:\Users\windows\Desktop\DEV\CSharp-Exercicios-POO\Abstração\obj\Debug\net8.0\ref\Abstração.dll
